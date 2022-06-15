@@ -1,0 +1,76 @@
+{
+	"Employee_Data": [
+		{
+			"role": "admin",
+			"empl_id": 111,
+			"empl_name": "Aiswarya",
+			"phone_number": 1234567890,
+			"id": 123,
+			"place": "Kerala"
+		},
+		{
+			"role": "developer",
+			"empl_id": 222,
+			"empl_name": "Vinitha",
+			"phone_number": 2345678901,
+			"id": 234,
+			"place": "Chennai"
+		},
+		{
+			"role": "developer",
+			"empl_id": 333,
+			"empl_name": "Boopati",
+			"phone_number": 3456789012,
+			"id": 345,
+			"place": "Chennai"
+		},
+		{
+			"role": "developer",
+			"empl_id": 444,
+			"empl_name": "Deepa",
+			"phone_number": 4567890123,
+			"id": 456,
+			"place": "Kerala"
+		},
+		{
+			"role": "admin",
+			"empl_id": 555,
+			"empl_name": "Faris",
+			"phone_number": 5678901234,
+			"id": 345,
+			"place": "Kerala"
+		},
+		{
+			"role": "tester",
+			"empl_id": 666,
+			"empl_name": "Lokesh",
+			"phone_number": 6789012345,
+			"id": 456,
+			"place": "Chennai"
+		},
+		{
+			"role": "tester",
+			"empl_id": 777,
+			"empl_name": "Ganesh",
+			"phone_number": 7890123456,
+			"id": 456,
+			"place": "Chennai"
+		},
+		{
+			"role": "developer",
+			"empl_id": 888,
+			"empl_name": "Navya",
+			"phone_number": 8901234567,
+			"id": 345,
+			"place": "AndraPradesh"
+		},
+		{
+			"role": "admin",
+			"empl_id": 999,
+			"empl_name": "Archana",
+			"phone_number": 9012345678,
+			"id": 123,
+			"place": "Kerala"
+		}
+	]
+}
